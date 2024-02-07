@@ -9,7 +9,8 @@ export default {
       },
     },
     fontFamily: {
-      Roboto: ["Roboto", "sans-serif"],
+      roboto: ["Roboto", "sans-serif"],
+      courier: ["Courier Prime", "sans-serif"],
     },
     container: {
       center: true,

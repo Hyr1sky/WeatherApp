@@ -24,7 +24,7 @@
         :modalActive="modalActive" 
         @close-modal="toggleModal"
       >
-        <div class="text-black">
+        <div class="text-black font-roboto">
           <h1 class="text-2xl mb-1">About:</h1>
           <p class="mb-4">
             The Local Weather allows you to track the current and future weather
